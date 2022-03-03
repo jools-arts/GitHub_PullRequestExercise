@@ -35,10 +35,10 @@ Mainline Star Wars films ranked:
 8. Rise of Skywalker
 9. Attack of the Clones
 
-* indented
-*  list
-*   would look like
-*    this
+* Indented
+ * List
+  * Would look like
+   * this
 
 Rogue One is the best Disney Star Wars film,  
 Closely followed by The Force Awakens,  
