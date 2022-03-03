@@ -58,5 +58,5 @@ Star Wars image:
 ![Elden Ring1][image 1]
 ![Elden Ring2][image 2]
 
-[image 1]: https://games-b26f.kxcdn.com/wp-content/uploads/2021/10/elden-ring-button-03-1623460560664-770x470.jpg"
-[image 2]: https://cdn.vox-cdn.com/thumbor/pU89NfUAR323INaN97GU2sz7izU=/0x0:1920x1080/1070x602/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70540556/ELDENRING_21_25120461292d8e6256c8.10110654.0.jpg"
+[image 1]: https://games-b26f.kxcdn.com/wp-content/uploads/2021/10/elden-ring-button-03-1623460560664-770x470.jpg
+[image 2]: https://cdn.vox-cdn.com/thumbor/pU89NfUAR323INaN97GU2sz7izU=/0x0:1920x1080/1070x602/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70540556/ELDENRING_21_25120461292d8e6256c8.10110654.0.jpg
