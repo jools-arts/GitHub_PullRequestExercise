@@ -6,10 +6,7 @@ _here is my **handle** here is my ~~neck~~ spout._ \
 
 <details>
 <summary>Things that hold tea </summary>
-* Teapot
- * Usually made of china or porcelain
-* Flasks
-* Mugs
+Teapots
 </details>
 
 ```python
