@@ -1,1 +1,2 @@
 this is text in text file 1
+finally adding some words to file 3
