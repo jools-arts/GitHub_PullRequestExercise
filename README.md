@@ -37,8 +37,8 @@ Mainline Star Wars films ranked:
 
 * Indented
  * List
-   * Would Look Like This
-    * This
+ * Would Look Like This
+  * This
 
 Rogue One is the best Disney Star Wars film,  
 Closely followed by The Force Awakens,  
