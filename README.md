@@ -8,13 +8,15 @@ Repository for practicing pull requests.
 #### GitHub Pull Request Exercise
 ##### GitHub Pull Request Exercise
 ###### GitHub Pull Request Exercise
-####### GitHub Pull Request Exercise
 
 > The bigger they, the harder they fall
 
 > if at first you don't succeed
+> 
 > try
+>
 > try
+> 
 > and try again
 
 List of things I need to complete in Elden Ring:
@@ -33,14 +35,14 @@ Mainline Star Wars films ranked:
 8. Rise of Skywalker
 9. Attack of the Clones
 
-*Indented
- *list
-  *would look like
-   *this
+* Indented
+ * List
+   * Would Look Like This
+    * This
 
-Rogue One is the best Disney Star Wars film,..
-Closely followed by The Force Awakens,..
-And finally, Solo: A Star Wars Story
+Rogue One is the best Disney Star Wars film,  
+Closely followed by The Force Awakens,  
+And finally, Solo: A Star Wars Story!
 
 [Star Wars](https://www.starwars.com/)
 
